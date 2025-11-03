@@ -18,7 +18,7 @@ https://github.com/eigenode/termatrix
   - Characters
 - Head in bright white, trailing characters in shades of green
 - Runs on any POSIX terminal (Linux, macOS, WSL)
-- Lightweight — ~100 lines of C
+- Lightweight: ~100 lines of C
 - Graceful exit on `Ctrl+C` with terminal state restored
 
 ---
