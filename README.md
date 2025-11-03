@@ -23,6 +23,11 @@ https://github.com/eigenode/termatrix
 
 ---
 
+## 🎬 Demo
+
+![Termatrix in action](demo.gif)
+---
+
 ## 🛠 Build
 
 Make sure you have GCC or Clang installed.
